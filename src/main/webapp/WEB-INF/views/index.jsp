@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<h1>Spring Boot WebApp integration with APIM/h1>
+	<h1>Spring Boot WebApp integration with APIM</h1>
 	<h2></h2>
 	<a href="register">Click here</a>
 </body>
